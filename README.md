@@ -5,6 +5,7 @@ Example for Android UVCCamera. It works on Android phone and pad via USB OTG if 
 
 ### Create UVCcamPreview and set as follows, 
 | <com.k2jstudio.uvccam.UVCcamPreview     |
+|---|---|---|---|---|
 |    android:id="@+id/uvccamPreview"      |
 |    android:layout_width="match_parent"  |
 |    android:layout_height="match_parent" |
