@@ -18,7 +18,7 @@
             android:id="@+id/uvccamPreview"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            UVCcamPreview:camera_device="1" />
+            UVCcamPreview:camera_device="0" />
         
         <Button
             android:id="@+id/button_exit"
