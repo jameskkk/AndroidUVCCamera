@@ -11,3 +11,6 @@ Example for Android UVCCamera. It works on Android phone and pad via USB OTG if 
 |    android:layout_height="match_parent" |
 |    UVCcamPreview:camera_device="1" />   |
 
+### It's a Eclipse project.
+
+
